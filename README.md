@@ -1,6 +1,6 @@
 ### Just run this on your browser: 
 
-```
+```js
 (function disableAntiDebugging() {
     const originalFunctionConstructor = window.Function;
 
